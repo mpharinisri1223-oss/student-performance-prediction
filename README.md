@@ -50,7 +50,4 @@ Student-Performance-Prediction/
 
 The model predicts whether a student will Pass or Fail based on input values.
 
-## Author
-
-Harinisri
 
